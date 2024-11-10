@@ -1,2 +1,2 @@
 # maxapi-sqltrace
-A quick-and-dirty conversion program that takes a T-SQL trace file in XML format and extracts the essential SQL statements.
+This quick-and-dirty conversion program takes a T-SQL trace file in XML format and extracts the essential SQL statements. When troubleshooting program issues, you may need to re-run specific SQL statements from a trace file at a time later than the trace itself. After saving the trace file in XML format, use this project to extract the required SQL statements to execute and examine. 

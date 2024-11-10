@@ -1,0 +1,15 @@
+{
+  "name": "sqltrace",
+  "version": "1.0.0",
+  "description": "A utility to read a SQL trace file in XML format and extract relevant SQL statements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Patrick wong",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
